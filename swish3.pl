@@ -1,4 +1,4 @@
-
+% Esse codigo envolve a resolução de um desafio lógico utilizando a linguagem Prolog
 resolve(Pos) :-
   Pos = navios(_,_,_,_,_),
   %chamine verde a esquerda do navio de kramer.
